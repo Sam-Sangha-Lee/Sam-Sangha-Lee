@@ -1,11 +1,15 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=This%20%20is%20Sam!&fontSize=90&animation=fadeIn&fontColor=777777)
 
-<h3 align="center">🪄 Tech Stack</h3>
+![reversal](https://capsule-render.vercel.app/api?type=soft&reversal=true&color=gradient&height=5)
 
-<h2 align="center">
+
+<h2 align="center">🪄 Tech Stack</h2>
+
+<h3 align="center">
 <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
-</h2>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/></a>
+</h3>
 
 
 <!--
