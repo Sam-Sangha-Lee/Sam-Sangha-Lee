@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h3 align="center">🪄 Tech Stack</h3>
+
+<img src="https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
+
+
 <!--
 **Sam-Sangha-Lee/Sam-Sangha-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
