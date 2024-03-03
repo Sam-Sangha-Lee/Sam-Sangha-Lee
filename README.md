@@ -2,7 +2,7 @@
 
 <h3 align="center">🪄 Tech Stack</h3>
 
-<h2 align="center>
+<h2 align="center">
 <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
 </h2>
