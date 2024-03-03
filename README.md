@@ -1,7 +1,8 @@
+<h1 align="center">
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=This%20%20is%20Sam!&fontSize=90&animation=fadeIn&fontColor=777777)
 
 ![reversal](https://capsule-render.vercel.app/api?type=soft&reversal=true&color=gradient&height=5)
-
+</h1>
 
 <h2 align="center">🪄 Tech Stack</h2>
 
