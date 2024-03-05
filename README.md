@@ -2,25 +2,26 @@
 
 <h2 align="center">🪄 Tech Stack</h2>
 <h3 align="center">
-  <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/></a>
+
+  <img src="https://img.shields.io/badge/CSharp-skyblue?style=flat-square&logo=csharp&logoColor=512BD4"/></a>
+  <img src="https://img.shields.io/badge/Swift-gray?style=flat-square&logo=swift&logoColor=F05138"/></a>
+  <img src="https://img.shields.io/badge/React-navy?style=flat-square&logo=react&logoColor=#61DAFB"/></a>
+
 </h3>
-<!--
-![reversal](https://capsule-render.vercel.app/api?type=soft&reversal=true&color=gradient&height=5)
--->
 
-<!--
-**Sam-Sangha-Lee/Sam-Sangha-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center"> 🔧 Tools </h2>
+<h3 align="center">
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/VScode-22d3d5?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/></a>
+</h3>
+<h3 align="center">
+    <img src="https://img.shields.io/badge/TortoiseSVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/></a>
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align=center> 📞 Contact </h2>
+<h3 align=center>
+[✉ email me](mailto:sangha.sam.lee@gmail.com)
+</h3>
+
